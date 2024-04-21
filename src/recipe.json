@@ -1,0 +1,84 @@
+{
+    "recipes": [
+        {
+            "name": "Pancakes",
+            "tags": [
+                "breakfast",
+                "brunch",
+                "quick",
+                "easy"
+            ],
+            "diet": "Vegetarian",
+            "cookTime": "5 minutes",
+            "mealType": "Breakfast"
+        },
+        {
+            "name": "Oven Baked Salmon",
+            "tags": [
+                "dinner",
+                "lunch",
+                "fish",
+                "healthy",
+                "easy"
+            ],
+            "diet": "Pescatarian",
+            "cookTime": "45 minutes",
+            "mealType": "Main course"
+        },
+        {
+            "name": "Winter Salad",
+            "tags": [
+                "easy",
+                "healthy",
+                "quick"
+            ],
+            "diet": "Vegan",
+            "cookTime": "10 minutes",
+            "mealType": "Salad"
+        },
+        {
+            "name": "Veg Lasagna",
+            "tags": [
+                "advanced",
+                "vegetarian",
+                "hearty"
+            ],
+            "diet": "Vegetarian",
+            "cookTime": "1 hour",
+            "mealType": "Main course"
+        },
+        {
+            "name": "Malva Pudding",
+            "tags": [
+                "winter",
+                "pudding",
+                "hearty"
+            ],
+            "diet": "Vegetarian",
+            "cookTime": "40 minutes",
+            "mealType": "Dessert"
+        },
+        {
+            "name": "Steak",
+            "tags": [
+                "quick",
+                "dinner",
+                "easy"
+            ],
+            "diet": "",
+            "cookTime": "10 minutes",
+            "mealType": "Main course"
+        },
+        {
+            "name": "Butternut Soup",
+            "tags": [
+                "hearty",
+                "winter",
+                "easy"
+            ],
+            "diet": "Vegetarian",
+            "cookTime": "10 minutes",
+            "mealType": "Soup"
+        }
+    ]
+}

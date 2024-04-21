@@ -1,0 +1,8 @@
+.recipeList{
+    padding-top: 3rem;
+}
+
+.recipeList li{
+    list-style: none;
+    padding-bottom: 2rem;
+}

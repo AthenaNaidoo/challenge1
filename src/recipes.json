@@ -1,0 +1,29 @@
+{
+    "recipes": [
+        {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+                "1 cup butter",
+                "1 cup sugar",
+                "2 eggs",
+                "2 cups all-purpose flour",
+                "1 tsp baking soda",
+                "1 tsp vanilla extract",
+                "1 cup chocolate chips"
+            ],
+            "instructions": "Preheat the oven to 350°F. Cream together butter and sugar..."
+        },
+        {
+            "name": "Vegetable Stir-Fry",
+            "ingredients": [
+                "2 cups mixed vegetables (bell peppers, broccoli, carrots, etc.)",
+                "2 tbsp soy sauce",
+                "1 tbsp sesame oil",
+                "1 clove garlic (minced)",
+                "1 tsp ginger (grated)",
+                "1 cup cooked rice"
+            ],
+            "instructions": "Heat sesame oil in a wok. Add minced garlic and grated ginger..."
+        }
+    ]
+}
