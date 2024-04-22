@@ -5,7 +5,7 @@ import Data from './recipe.json';
 import {RecipeList} from './RecipeList';
 import {RecipeDetails} from './RecipeDetails';
 import {FavoritesList} from './FavoritesList';
-import Navbar from './Navbar';
+//import Navbar from './Navbar';
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -14,7 +14,7 @@ function App() {
   const [selectedDiet, setSelectedDiet] = useState('');
   
 
-//why isn't it working??
+//doesn't work
   const handleInputChange = (e) => {
     if (e.target.type === 'text') {
       setSearchTerm(e.target.value);
@@ -107,3 +107,5 @@ function App() {
 }
 
 export default App;
+
+//
